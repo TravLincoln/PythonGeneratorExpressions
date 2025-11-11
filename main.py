@@ -16,7 +16,7 @@ for square in even_squares:
 
 
 '''
-file_path = "C:\\Users\\travi\\OneDrive\\Documents\\TLOR.txt"
+file_path = "TLOR.txt"
 
 with open(file_path) as file:
     lines = (line.strip() for line in file)
